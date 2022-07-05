@@ -1,0 +1,25 @@
+{
+  "name": "business-card",
+  "version": "1.0.0",
+  "description": "- [About the project](#about-the-project)\r - [Technologies used](#technologies-used)\r - [Figma design](#figma-design)\r - [End result](#end-result)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-Felipe-C/business-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheus-Felipe-C/business-card/issues"
+  },
+  "homepage": "https://github.com/Matheus-Felipe-C/business-card#readme",
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
