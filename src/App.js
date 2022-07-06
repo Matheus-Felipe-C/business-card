@@ -11,6 +11,7 @@ function App() {
     <div>
       <Info />
       <About />
+      <Interests />
     </div>
   );
 }
