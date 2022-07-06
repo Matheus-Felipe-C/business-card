@@ -1,4 +1,85 @@
+/* General */
+
 body {
     background-color: #F5F5F5;
+    font-family: Inter, sans-serif;
+    margin-top: 0;
 }
+
+/* Info */
+
+.img {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+.text {
+    display: block;
+    margin-top: 20;
+    text-align: center;
+    font-size: 15px;
+}
+
+.name {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.position {
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: -10px;
+    color: #F47D27;
+}
+
+.website {
+    text-decoration: none;
+    color: #4A4E74;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    margin: 10px 20px;
+    width: 120px;
+    height: 34px;
+    font-size: 15px;
+}
+
+.email {
+    background-color: #fff;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+.email:hover {
+    background-color: #f5f2f2;
+}
+
+.linkedin {
+    background: #297FE5;
+
+    color: #fff;
+    border-radius: 6px;
+    border: none;
+}
+
+.linkedin:hover {
+    background-color: #07387c;
+}
+
+.linkedin > i {
+    background-color: #297FE5;
+    color: #fff;
+}
+
+.btn > i {
+    margin-right: 5px;
+}
+
+/* About section */
 
