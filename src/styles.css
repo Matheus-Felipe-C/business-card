@@ -63,7 +63,6 @@ body {
 
 .linkedin {
     background: #297FE5;
-
     color: #fff;
     border-radius: 6px;
     border: none;
@@ -86,4 +85,15 @@ body {
 
 .about {
     margin-left: 30px;
+}
+
+/* media queries */
+
+@media (max-width: 780px) {
+    .btn {
+        width: 150px;
+        height: 45px;
+        font-size: 17px;
+        margin: 10px 6px;
+    }
 }
