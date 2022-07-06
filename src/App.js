@@ -1,11 +1,12 @@
 import { createRoot } from 'react-dom/client'
+import Info from './components/Info'
 
 const root = createRoot(document.getElementById('root'))
 
 function App () {
     return (
         <div>
-            <h1>Hello!</h1>
+            <Info />
         </div>
     )
 }
