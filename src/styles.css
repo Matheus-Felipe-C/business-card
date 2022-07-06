@@ -29,13 +29,14 @@ body {
 .position {
     font-size: 20px;
     font-weight: 400;
-    margin-top: -10px;
+    margin-top: -15px;
     color: #F47D27;
 }
 
 .website {
     text-decoration: none;
     color: #4A4E74;
+    margin-top: -5px;
 }
 
 .btn-container {
@@ -83,3 +84,6 @@ body {
 
 /* About section */
 
+.about {
+    margin-left: 30px;
+}
