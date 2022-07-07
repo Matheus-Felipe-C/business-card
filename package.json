@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Matheus-Felipe-C/business-card#readme",
   "devDependencies": {
     "parcel": "^2.6.2",
+    "process": "^0.11.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
