@@ -10,11 +10,21 @@ export default function Info() {
         Random link
       </a>
       <div className="btn-container">
-        <button className="email btn">
-          <i class="fa-solid fa-envelope"></i> E-mail
-        </button>
-        <button className="linkedin btn">
-        <i class="fa-brands fa-linkedin"></i> LinkedIn</button>
+        <a 
+          href="mailto:theusf40@hotmail.com"
+          target="_blank" 
+          >
+          <button className="email btn">
+            <i class="fa-solid fa-envelope"></i> E-mail
+          </button>
+        </a>
+        <a 
+          href="https://www.linkedin.com/in/matheus-felipe-de-oliveira-ferreira-49909b215/"
+          target="_blank"
+          >
+          <button className="linkedin btn">
+          <i class="fa-brands fa-linkedin"></i> LinkedIn</button>
+        </a>
       </div>
     </div>
   );

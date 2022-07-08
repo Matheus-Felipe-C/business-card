@@ -5,7 +5,7 @@ import twitter from '../../img/twitter-square.svg'
 export default function Footer() {
     return (
         <footer className="footer">
-            <a className="footer-icon"  href="https://twitter.com/theusf40">
+            <a className="footer-icon" target="_blank" href="https://twitter.com/theusf40">
               <img src={twitter} />
             </a>
             <a className="footer-icon" href="https://www.instagram.com/theusf40/">

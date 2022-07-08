@@ -108,6 +108,10 @@ body {
   margin: auto 30px;
 }
 
+.footer > .footer-icon:hover {
+  width: 40px;
+}
+
 /* media queries */
 
 @media (max-width: 780px) {
